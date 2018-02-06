@@ -1,0 +1,14 @@
+{
+    "name": "genoffe/instagram-graber",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoga Wibowo Aji",
+            "email": "yoga@docotel.com"
+        }
+    ]
+}
