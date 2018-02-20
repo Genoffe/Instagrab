@@ -1,6 +1,6 @@
 Instagrab
 =========
-Grab instagram gallery
+Instant Grab Instagram Gallery
 
 Need access token?
 ==================
